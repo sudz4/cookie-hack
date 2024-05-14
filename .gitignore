@@ -1,0 +1,5 @@
+# virtual env
+/cookie_venv
+
+# segreti
+.env
